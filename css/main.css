@@ -76,7 +76,7 @@ body {
   background: #8f665a;
 }
 header {
-  background: #537f8a;
+  background: #0092aa;
   position: relative;
 }
 .main-logo {
@@ -493,7 +493,7 @@ header {
 }
 /* Services */
 #services {
-  background: #0092aa;
+  background: #537f8a;
   padding: 100px 0 75px;
 }
 .services i {
