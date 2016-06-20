@@ -247,8 +247,8 @@ header {
 #navi span.cycle-pager-active {
   background: #e0e0e0;
 }
-/* AGENDA */
-#agenda {
+/* HACKDAY */
+#hackday {
   padding: 100px 0 75px;
   background:#78b79b;
 }
@@ -363,7 +363,7 @@ header {
   -ms-transition: all .5s linear 0s;
   -webkit-transition: all .5s linear 0s;
 }
-#trigger_agenda {
+#trigger_hackday {
   color: #fff;
   display: block;
   font-size: 18px;
@@ -372,11 +372,11 @@ header {
   text-align: center;
   width: 20px;
 }
-#trigger_agenda:hover {
+#trigger_hackday:hover {
   text-decoration: none;
   background: skyblue;
 }
-#trigger_agenda.active {
+#trigger_hackday.active {
   background: skyblue;
 }
 .mix{
@@ -491,12 +491,12 @@ header {
   clear: both;
   padding: 15px 0 0;
 }
-/* Speaker */
-#speaker {
+/* Agenda */
+#agenda {
   background: #537f8a;
   padding: 100px 0 75px;
 }
-.speaker i {
+.agenda i {
   display: inline-block;
   width: 100px;
   height: 100px;
@@ -511,7 +511,7 @@ header {
   -webkit-transition: all .5s;
   border: solid 3px transparent;
 }
-.speaker i:hover {
+.agenda i:hover {
   transition: all .5s;
   -moz-transition: all .5s;
   -o-transition: all .5s;
@@ -520,10 +520,10 @@ header {
   background: none;
   border: #fff solid 3px;
 }
-.speaker {
+.agenda {
   margin-bottom: 75px;
 }
-.speaker h3 {
+.agenda h3 {
   line-height: 24px;
   min-height: 48px;
 }
