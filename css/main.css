@@ -76,7 +76,7 @@ body {
   background: #8f665a;
 }
 header {
-  background: #78b79b;
+  background: #0092aa;
   position: relative;
 }
 .main-logo {
@@ -250,7 +250,7 @@ header {
 /* PORTFOLIO */
 #portfolio {
   padding: 100px 0 75px;
-  background:#0092aa ;
+  background:#78b79b ;
 }
 /**** Isotope Filtering ****/
 .isotope-item {
