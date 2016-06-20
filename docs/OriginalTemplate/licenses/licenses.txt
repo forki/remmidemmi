@@ -1,0 +1,33 @@
+============== Zocial Butons =============
+	http://zocial.smcllns.com
+	by Sam Collins (@smcllns)
+	License: http://opensource.org/licenses/mit-license.php
+	
+	You are free to use and modify, as long as you keep this license comment intact or link back to zocial.smcllns.com on your site.
+
+===================FRESCOJS commercial license =============
+/*!
+ * Fresco - A Beautiful Responsive Lightbox - v1.2.5
+ * (c) 2012-2013 Nick Stakenburg
+ *
+ * http://www.frescojs.com
+ *
+ * License: http://www.frescojs.com/license
+ */
+
+===================CYCLE2===================
+/*
+* jQuery Cycle2; v20130502
+* http://jquery.malsup.com/cycle2/
+* Copyright (c) 2013 M. Alsup; Dual licensed: MIT/GPL
+*/
+
+===================throttle/debounce==================
+/*
+ * jQuery throttle / debounce - v1.1 - 3/7/2010
+ * http://benalman.com/projects/jquery-throttle-debounce-plugin/
+ * 
+ * Copyright (c) 2010 "Cowboy" Ben Alman
+ * Dual licensed under the MIT and GPL licenses.
+ * http://benalman.com/about/license/
+ */
