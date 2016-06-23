@@ -86,6 +86,11 @@
                             <i class="icon-rocket icon-4x"></i>
                             <span>Sponsoren</span>
                         </a>
+                        
+                        <a class="menu-4" href="#about-us">
+                            <i class="icon-calendar icon-4x"></i>
+                            <span>Anmeldung</span>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -104,6 +109,7 @@
                             <li class="menu-2"><a href="#agenda"><i class="icon-anchor icon-3x"></i>Agenda</a></li>
                             <li class="menu-3"><a href="#hackday"><i class="icon-beaker icon-3x"></i>HackDay</a></li>
                             <li class="menu-4"><a href="#sponsor"><i class="icon-rocket icon-3x"></i>Sponsoren</a></li>
+                            <li class="menu-4"><a href="#about-us"><i class="icon-calendar icon-3x"></i>Anmeldung</a></li>
                         </ul>
                     </div>
                 </div>
@@ -122,6 +128,7 @@
                     <li class="menu-2"><a href="#agenda"><i class="icon-anchor icon-1x"></i>Agenda</a></li>
                     <li class="menu-3"><a href="#hackday"><i class="icon-beaker icon-1x"></i>Hackday</a></li>
                     <li class="menu-4"><a href="#sponsor"><i class="icon-rocket icon-1x"></i>Sponsoren</a></li>
+                    <li class="menu-4"><a href="#about-us"><i class="icon-calendar icon-1x"></i>Anmeldung</a></li>
                 </ul>
             </div>
         </div>
@@ -142,7 +149,7 @@
                     <div class="dot-bg"></div>
                     <div class="row-fluid">
                         <div class="span6"><b>Veranstaltungsort</b><br />Dreamlines GmbH<br /> Hermannstraße 9<br /> 20095 Hamburg<br /><br /> <b>Anmeldung</b><br />Die Anmeldung für die Konferenz ist kostenlos und erfolgt auf <a href="https://www.xing.com/events/remmidemmi-2016-1692732">XING.</a></div>
-                        <div class="span6"><b>Termine</b><br />17.9.2016 Konferenz<br />17.9.2016 Party<br /> 18.9.2016 HackDay<br /> <br/>Updates unter <a href="https://twitter.com/remmidemmiConf" style="color:#FFFFFF">@@remmidemmiConf</a>.</div>                    
+                        <div class="span6"><b>Termine</b><br />17.9.2016 Konferenz<br />17.9.2016 Party<br /> 18.9.2016 HackDay<br /> <br/>Updates unter <a href="https://twitter.com/remmidemmiConf" style="color:#FFFFFF" target="_blank">@@remmidemmiConf</a>.</div>                    
                     </div>
                     
                     <br />  
@@ -160,6 +167,18 @@
                   
                     <div class="row-fluid">
                         <div class="span9">                            
+                            <h3 id="marco">Ralf Westphal - Keynote</h3>
+                            <p><img alt="Ralf Westphal" src="images/ralf.jpg"  width=300 align=right style="margin:5px" >
+                              <br /></p>
+                            <p><a href="http://www.ralfw.de" style="color:#FFFFFF" >Ralf Westphal</a> ist freiberuflicher Berater, Projektbegleiter, Referent, Autor und Trainer für Themen rund um Softwarearchitektur und die Organisation von Softwareteams.
+                            Er ist Mitgründer der Initiative <a href="http://www.clean-code-developer.de" style="color:#FFFFFF" >"Clean Code Developer"</a> (CCD) für mehr Softwarequalität, propagiert kontinuierliches Lernen mit der CCD School (ccd-school.de) und möchte mit ich-verspreche.org zu mehr Zuverlässigkeit motivieren.<br />
+                            <br />
+                            Blog: <a href="http://ralfw.de/blog" style="color:#FFFFFF" >http://ralfw.de/blog</a><br />
+                            Twitter: <a href="http://www.twitter.com/ralfw" style="color:#FFFFFF" >@@ralfw</a><br />
+                            <br /><br /><br /><br /><br /><br />
+                            <br /><br /><br /><br /><br /><br />
+                            <br /><br /><br />
+                            </p>                           
                             <h3 id="marco">Marco Heimeshoff - DDD mit F#</h3>
                             <p><img alt="Marco Heimeshoff" src="images/marco.jpg"  width=300 align=right style="margin:5px" >Domain Driven Design (DDD) legt den Fokus der Entwickler auf das
                               Verhalten des Business und auf Modellieren in einer gemeinsamen
@@ -184,22 +203,25 @@
                               auf OpenSpaces und Konferenzen zu funktionalen Softwarearchitekturen und agilen Prinzipien aus. 
                               Marco gründete 2011 die deutsche DDD Community und ist seitdem begeistert von Themen wie Event Storming, CQRS/ES und DDD. Twittern Sie ihm unter <a href="https://twitter.com/heimeshoff" style="color:#FFFFFF">@@Heimeshoff</a>.</p>
                                                         
-                            <h3 id="carsten">Carsten König</h3>
-                            <p><img alt="Carsten König" src="images/carsten.jpg" width=300 align=right style="margin:5px" >Carsten ist Softwareentwickler, Sprecher und Trainer. Sein Schwerpunkt liegt in funktionalen Programmierung im Allgemeinen und F# im Besonderen.
+                            <h3 id="carsten">Carsten König - Eventsourcing mit F#</h3>
+                            <p><img alt="Carsten König" src="images/carsten.jpg" width=300 align=right style="margin:5px" >
+                            Eventsourcing und funktionale Programmierung das gehört zusammen! – Davon möchte ich euch hier überzeugen.<br /><br />
+
+                            Speziell die Projektionen der Ereignisse kommen den funktionalen Programmierer sehr bekannt vor - es ist nichts anderes als ein *Fold*.<br /><br />
                             
-                            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>                            
+                            Nach einen kurzen Einführung in die Ideen hinter Eventsourcing werden wir uns ansehen was Folds sind und wie man damit praktisch alles
+                            erschlagen kann was man mit Auflistungen von Ereignissen machen kann.<br /><br />
                             
+                            Anschließend werden wir die Abstraktion noch etwas in die Höhe treiben und sehen was sich alles machen lässt - Snapshots bekommen wir
+                            als Zugabe praktisch geschenkt.
+                            
+                            <p>Carsten ist Softwareentwickler, Sprecher und Trainer. Sein Schwerpunkt liegt in funktionalen Programmierung im Allgemeinen und F# im Besonderen.</p>                          
                             <h3 id="mike">Mike Bild</h3>
                             <p>TBD</p>
                                                         
-                            <h3 id="isaac">Isaac Abraham</h3>
-                            <p><img alt="Isaac Abraham" src="images/isaac.jpg"  width=300 align=right style="margin:5px" >Eine der Schwierigkeiten mit Verteilten Applikationen ist Wntwicklen von Lösungen die skalierbar sind und trotzdem einfach zu verstehen.
-                            Cloud-Anbieter bieten uns eine Reihe von Diensten die es uns erlauben Applikationen schnell zu entwicklen und gleichzeitig den Fokus auf den Geschäftsprozessen zu halten.
-                            In diesem Vortrag werden wir verschiedene Dienste von Microsofts Azure Cloud verwenden und sehen wie man mit ihnen Event Processing betreiben kann. 
-                            Durch Bündelung dieser Dienste und den Einsatz von F# werden wir große Mengen an Daten verarbeiten und analysieren.</p>
-                            <p>Isaac Abraham it F# MVP und .NET-Entwickler seit .NET 1.0 und interessiert sich für Cloud-Computing und Verteilte Anwendungen. 
-                               Derzeit lebt er gleichermaßen in Großbritannien und Deutschland und leitet die Firma "Compositional IT". Seine Spezialgebiete sind Consulting, Training und Entwicklung und 
-                               er hilft seinen Kunden den Einstieg in die Welt der "functional-first"-Lösungen auf der .NET-Platform zu erreichen.</p>                          
+                            <h3 id="isaac">Isaac Abraham - F# in the cloud</h3>
+                            <p><img alt="Isaac Abraham" src="images/isaac.png" width=300 align=right style="margin:5px" >Eine der Schwierigkeiten mit Verteilten Applikationen ist das Entwickeln von Lösungen die skalierbar sind und trotzdem einfach zu verstehen. Cloud-Anbieter bieten uns eine Reihe von Diensten, die es uns erlauben Applikationen schnell zu entwickeln und gleichzeitig den Fokus auf den Geschäftsprozessen zu halten. In diesem Vortrag werden wir verschiedene Dienste von Microsofts Azure Cloud verwenden und sehen wie man mit ihnen Event Processing betreiben kann. Durch Bündelung dieser Dienste und den Einsatz von F# werden wir große Mengen an Daten verarbeiten und analysieren.</p>
+                            <p>Isaac Abraham ist F# MVP und .NET-Entwickler seit .NET 1.0 und interessiert sich für Cloud-Computing und Verteilte Anwendungen. Derzeit lebt er gleichermaßen in Großbritannien und Deutschland und leitet die Firma "Compositional IT". Seine Spezialgebiete sind Consulting, Training und Entwicklung.  Mit Compositional IT hilft er seinen Kunden den Einstieg in die Welt der "functional-first"-Lösungen auf der .NET-Platform zu erreichen.</p>                          
                             <h3 id="max">Max Malook</h3>
                             <p>TBD</p>
                             
@@ -218,6 +240,8 @@
                         </div>
                         <div class="span3">
                             <ul class="arrow">
+                                <li><a href="#ralf" style="color:#FFFFFF" >Ralf Westphal</a></li>
+                                
                                 <li><a href="#isaac" style="color:#FFFFFF" >Isaac Abraham</a></li>
 
                                 <li><a href="#marco" style="color:#FFFFFF">Marco Heimeshoff</a></li>
@@ -280,6 +304,20 @@
         <!-- ========== FOOTER ========== -->
         <footer>
             <div class="container text-center">
+                <h1 class="text-center">Impressum</h1>
+                    <div class="dot-bg"></div>    
+                    <div class="row-fluid">
+                            Steffen Forkmann<br />
+                            Julienstr. 24<br />
+                            45130 Essen<br />
+                            <br />           
+                            Isaac Abraham<br />
+                            Mengerstrasse 8a<br />
+                            36041 Fulda<br />
+                            <br />
+                            <br />
+                            <br />
+                    </div>                
                 <div class="copyright"> (c) 2016 “F# und RemmiDemmi”<br>
                     All Rights Reserved </div>
             </div>
