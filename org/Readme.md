@@ -47,7 +47,7 @@ Party Samstag 18 Uhr
  * 3) „Joh.Albrechts“ Brauerplatte 13,90
  * 4) „Brauhaus Burger“ 200g 13,90
  * 5) Original Wiener Schnitzel vom Kalb 20,90
- * 
+
  * Offen:Nachfragen per Mail an Teilnehmer am 8.9.2016:
 
 Catering für Samstag-Mittag
@@ -59,9 +59,11 @@ Catering für Samstag-Mittag
 
 Catering für Sonntag-Mittag
 ---------------------------
+
   * Wir schauen am Vormittag wieviele Teilnehmer kommen und bestellen Pizza
   * Sponsoring: Isaac
 
 Unterkunft
 ----------
+
   * Steffen/Isaac im Hotel Lumen am Hauptbahnhof 
