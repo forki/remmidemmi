@@ -1,4 +1,5 @@
-Agenda:
+Agenda
+------
 
   08:45 - 09:00 Intro
   09:00 - 10:00 Ralf Westphal - Keynote
@@ -12,9 +13,10 @@ Agenda:
   14:45 - 15:45 Isaac Abraham - F# in the cloud
   15:45 - 16:00 Kaffeepause
   16:00 - 17:00 Steffen Forkmann - Ein Ausflug in den F# Compiler
-  
-  
-Vor Ort:
+
+Vor Ort brauchen wir
+--------------------
+
   * Beamer/Tisch/Projektionsfläche für Präsentationen
   * Steckdosen/Tische/Platz für den HackDay am Sonntag
   * Stühle für 40 Personen
@@ -22,33 +24,28 @@ Vor Ort:
   * Tee/Kaffee/Snacks
   * Falls Raum zu groß vielleicht ein Mikro?!
 
-
-Catering-Anfrage für Samstag-Mittag an:
-
-  * Nord Event
-  * http://cateristic.com/
-  * http://www.daily-catering.de/
-  * http://www.tafelfreuden-partyservice.com/
-  * Superpartys.de
-  * kaiserwetter-catering.de
-  * giffey.de
-  * Pottkieker
-
-Party 18 Uhr http://hamburg.brauhaus-joh-albrecht.de/
-
-   Anfrage per Mail an Teilnehmer am 8.9.2016:
+Party Samstag 18 Uhr
+--------------------
+   * Reserviert bei http://hamburg.brauhaus-joh-albrecht.de/
+   
    Speisekarte für uns:
  * 1) Flammkuchen vegetarisch 9,-
  * 2) Drei Matjesfilets nach „Hausfrauen Art“ 14,90
  * 3) „Joh.Albrechts“ Brauerplatte 13,90
  * 4) „Brauhaus Burger“ 200g 13,90
  * 5) Original Wiener Schnitzel vom Kalb 20,90
+ * 
+ * Offen:Nachfragen per Mail an Teilnehmer am 8.9.2016:
 
-Unterkunft:
+Catering für Samstag-Mittag:
+  * 50 Lunchpakete von kaiserwetter-catering.de (siehe Angebot)
+  * Sponsor: Mike Bild, Grottkauer Str. 8, 12621 Berlin
+  * Offen: Verbindlich bestellen wenn Mike bestätigt
+
+Catering für Sonntag-Mittag:
+  * Wir schauen am Vormittag wieviele Teilnehmer kommen und bestellen Pizza
+
+
+
+Unterkunft Steffen/Isaac:
  * Hotel Lumen am Hauptbahnhof 
-
-
-Budget:
- * Mike Bild -Grottkauer Str. 8, 12621 Berlin - 500,-
- * 200,- grossweber.com
- * Isaac Abraham 250
