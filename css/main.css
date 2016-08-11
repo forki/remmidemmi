@@ -531,13 +531,13 @@ header {
   padding: 75px 0;
   background-image: url("../images/parallax-2.png");
 }
-/* Sponsoren */
-#sponsor {
+/* Party */
+#party {
   background: #8f665a;
   padding: 100px 0 75px;
 }
-/* Party */
-#party {
+/* Sponsoren */
+#sponsor {
   background: #45665a;
   padding: 100px 0 75px;
 }
