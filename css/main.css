@@ -536,6 +536,11 @@ header {
   background: #8f665a;
   padding: 100px 0 75px;
 }
+/* Hackday */
+#hackday {
+  background: #45665a;
+  padding: 100px 0 75px;
+}
 #footer-top {
   padding: 75px 0;
   background-image: url("../images/parallax-1.png");
