@@ -1,14 +1,14 @@
 RemmiDemmi 
 ============
 
-Agenda
-------
+Agenda Samstag
+--------------
 
- * 08:45 - 09:00 Intro
- * 09:00 - 10:00 Ralf Westphal - Keynote
- * 10:00 - 10:15 Kaffeepause
- * 10:15 - 11:15 Marco Heimeshoff - DDD mit F#
- * 11:15 - 11:30 Kaffeepause
+ * 08:30 - 09:00 Frühstück
+ * 09:00 - 09:15 Intro
+ * 09:15 - 10:15 Ralf Westphal - Keynote
+ * 10:15 - 10:30 Kaffeepause
+ * 10:30 - 11:30 Marco Heimeshoff - DDD mit F#
  * 11:30 - 12:30 Carsten König - Eventsourcing mit F#
  * 12:30 - 13:30 Mittagessen
  * 13:30 - 14:30 Mike Bild - Microservice-Praxis mit F#, Docker und Co.
@@ -16,6 +16,13 @@ Agenda
  * 14:45 - 15:45 Isaac Abraham - F# in the cloud
  * 15:45 - 16:00 Kaffeepause
  * 16:00 - 17:00 Steffen Forkmann - Ein Ausflug in den F# Compiler
+
+
+Agenda Sonntag
+--------------
+
+ * 09:00 - 09:30 Frühstück
+ * 09:30 - 15:00 HackDay / Workshops
 
 Vor Ort brauchen wir
 --------------------
@@ -30,7 +37,7 @@ Vor Ort brauchen wir
 Kaffeepause / Frühstück
 -----------------------
 
-* Wir haben Samstag 5 Kaffeepausen.
+* Wir haben Samstag 4 Kaffeepausen.
 * Sonntag sollten wir nebenbei Kaffee anbieten
 * 2x Frühstück
 
@@ -51,7 +58,7 @@ Party Samstag 18 Uhr
  * 4) „Brauhaus Burger“ 200g 13,90
  * 5) Original Wiener Schnitzel vom Kalb 20,90
 
- * Offen:Nachfragen per Mail an Teilnehmer am 8.9.2016:
+ * Offen: Nachfragen per Mail an Teilnehmer am 8.9.2016:
 
 Catering für Samstag-Mittag
 ---------------------------
