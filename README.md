@@ -53,10 +53,10 @@ Party Samstag 18 Uhr
    
    Speisekarte für uns:
  * 1) Flammkuchen vegetarisch 9,-
- * 2) Drei Matjesfilets nach „Hausfrauen Art“ 14,90
+ * 2) Drei Matjesfilets nach „Hausfrauen Art“ 14,90 - 1
  * 3) „Joh.Albrechts“ Brauerplatte 13,90
- * 4) „Brauhaus Burger“ 200g 13,90
- * 5) Original Wiener Schnitzel vom Kalb 20,90
+ * 4) „Brauhaus Burger“ 200g 13,90  - 3
+ * 5) Original Wiener Schnitzel vom Kalb 20,90 - 1
 
  * Offen: Nachfragen per Mail an Teilnehmer am 8.9.2016:
 
@@ -77,3 +77,10 @@ Unterkunft
 ----------
 
   * Steffen/Isaac im Hotel Lumen am Hauptbahnhof 
+  * 
+TODO:
+
+* Servietten
+* Getränkebecher (wenn keine Gläser vor Ort)
+* Säfte
+* Bier
